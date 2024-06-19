@@ -1,0 +1,6 @@
+.bg-color{
+    background: linear-gradient(135deg, orange 60%, cyan);
+}
+.row>[class^="col"]{
+border: 0.1em magenta solid;
+}
